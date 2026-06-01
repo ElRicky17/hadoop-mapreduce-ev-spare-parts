@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# MovieLens dataset — download from https://grouplens.org/datasets/movielens/100k/
+u.data
+u.item
+u.genre
+u.user
+u.occupation
+
+# Logs
+*.log
+logs/
